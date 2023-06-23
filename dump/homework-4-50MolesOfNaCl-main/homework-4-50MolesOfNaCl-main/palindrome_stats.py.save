@@ -1,0 +1,10 @@
+from palindrome import is_palindrome
+
+#init
+shortest_pali = []
+longest_pali = []
+
+with open("words.txt") as file:
+    if 
+zymoses
+
